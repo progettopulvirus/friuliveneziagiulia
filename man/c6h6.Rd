@@ -3,14 +3,14 @@
 \docType{data}
 \name{c6h6}
 \alias{c6h6}
-\title{Tibble con i dati di c6h6 per 2 stazioni della regione FRIULIVENEZIAGIULIA}
+\title{Tibble con i dati di c6h6 per 8 stazioni della regione FRIULIVENEZIAGIULIA}
 \format{
-Un tibble con 8 colonne e 4695 osservazioni
+Un tibble con 8 colonne e 9978 osservazioni
 }
 \usage{
 c6h6
 }
 \description{
-Tibble con i dati di c6h6 per 2 stazioni della regione FRIULIVENEZIAGIULIA
+Tibble con i dati di c6h6 per 8 stazioni della regione FRIULIVENEZIAGIULIA
 }
 \keyword{datasets}

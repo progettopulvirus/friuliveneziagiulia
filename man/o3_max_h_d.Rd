@@ -3,14 +3,14 @@
 \docType{data}
 \name{o3_max_h_d}
 \alias{o3_max_h_d}
-\title{Tibble con i dati di o3_max_h_d per 8 stazioni della regione FRIULIVENEZIAGIULIA}
+\title{Tibble con i dati di o3_max_h_d per 18 stazioni della regione FRIULIVENEZIAGIULIA}
 \format{
-Un tibble con 8 colonne e 20907 osservazioni
+Un tibble con 8 colonne e 39650 osservazioni
 }
 \usage{
 o3_max_h_d
 }
 \description{
-Tibble con i dati di o3_max_h_d per 8 stazioni della regione FRIULIVENEZIAGIULIA
+Tibble con i dati di o3_max_h_d per 18 stazioni della regione FRIULIVENEZIAGIULIA
 }
 \keyword{datasets}

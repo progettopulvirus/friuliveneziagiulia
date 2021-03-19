@@ -3,14 +3,14 @@
 \docType{data}
 \name{co}
 \alias{co}
-\title{Tibble con i dati di co per 2 stazioni della regione FRIULIVENEZIAGIULIA}
+\title{Tibble con i dati di co per 6 stazioni della regione FRIULIVENEZIAGIULIA}
 \format{
-Un tibble con 8 colonne e 5471 osservazioni
+Un tibble con 8 colonne e 12223 osservazioni
 }
 \usage{
 co
 }
 \description{
-Tibble con i dati di co per 2 stazioni della regione FRIULIVENEZIAGIULIA
+Tibble con i dati di co per 6 stazioni della regione FRIULIVENEZIAGIULIA
 }
 \keyword{datasets}
