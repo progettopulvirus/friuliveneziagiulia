@@ -3,14 +3,14 @@
 \docType{data}
 \name{pm25}
 \alias{pm25}
-\title{Tibble con i dati di pm25 per 7 stazioni della regione FRIULIVENEZIAGIULIA}
+\title{Tibble con i dati di pm25 per 2 stazioni della regione FRIULIVENEZIAGIULIA}
 \format{
-Un tibble con 8 colonne e 12580 osservazioni
+Un tibble con 8 colonne e 4982 osservazioni
 }
 \usage{
 pm25
 }
 \description{
-Tibble con i dati di pm25 per 7 stazioni della regione FRIULIVENEZIAGIULIA
+Tibble con i dati di pm25 per 2 stazioni della regione FRIULIVENEZIAGIULIA
 }
 \keyword{datasets}
